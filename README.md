@@ -1,16 +1,4 @@
 # setting_ui_app
 
-A new Flutter setting UI app.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-04-27 105447](https://user-images.githubusercontent.com/111500135/234767187-ca42c4a3-1a07-406d-aa10-944fd6dd32ce.png)
+![Screenshot 2023-04-27 105538](https://user-images.githubusercontent.com/111500135/234767202-52d60d8c-62e6-4df7-8834-aa96a635fcca.png)
